@@ -1,6 +1,6 @@
 # NNN-Community
 
-![](img/a1.jpg)
-![](img/a2.jpg)
-![](img/a3.jpg)
-![](img/a4.jpg)
+![](nnncommunity/img/a1.jpg)
+![](nnncommunity/img/a2.jpg)
+![](nnncommunity/img/a3.jpg)
+![](nnncommunity/img/a4.jpg)
